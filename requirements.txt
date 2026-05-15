@@ -1,4 +1,4 @@
-gradio
-google-genai
 transformers
 torch
+google-genai
+pillow

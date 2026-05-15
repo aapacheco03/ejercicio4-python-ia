@@ -48,5 +48,15 @@ To run the generative features (Summary and Communication), you need a Gemini AP
 3. Go to **Settings > Variables and secrets**.
 4. Add a new secret named `GEMINI_API_KEY` with your API key value.
 
+## ☁️ Deployment on HuggingFace Spaces Link: https://huggingface.co/spaces/aapacheco03/wfm-copilot
+Result screenshoots:
+<img width="975" height="203" alt="image" src="https://github.com/user-attachments/assets/5144fbfa-bd6c-4c57-924d-923c43419521" />
+<img width="975" height="148" alt="image" src="https://github.com/user-attachments/assets/7cfec7f1-8b65-49ee-93c1-e1e040d1a4fb" />
+<img width="975" height="155" alt="image" src="https://github.com/user-attachments/assets/da7b376a-70c7-4233-8e5e-3b3e21ca9e3e" />
+
+
+
+
+
 ---
 Developed as a Final Project for the **Python for AI** Module.
